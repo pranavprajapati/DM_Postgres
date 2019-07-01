@@ -1,5 +1,3 @@
-# Data Engineering Nanodegree by Udacity
-
 ## Project: Data Modeling with Postgres
 
 
